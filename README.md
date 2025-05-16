@@ -1,39 +1,32 @@
-## 🎉 Birthday Greeting Webpage 
+---
+
+## 🎉 Página Web de Cumprimento de Aniversário
 
 [Demo](https://fajarghifar.github.io/happybirthday/)
 
-## 🚀 How to Use
+## 🚀 Como Usar
 
-1.  **Clone Repository**
+1. **Clonar o Repositório**
 
-    ```bash
-    # Clone this repository or download it
-    $ git clone https://github.com/fajarghifar/happybirthday
+   ```bash
+   # Clone este repositório ou faça o download
+   $ git clone https://github.com/fajarghifar/happybirthday
 
-    # Go into the repository
-    $ cd happybirthday
+   # Acesse o repositório
+   $ cd happybirthday
 
-    # Open it with your text editor
-    $ code .
-    ```
+   # Abra com seu editor de texto
+   $ code .
+   ```
 
-2. **Open with Live Server**
+2. **Abrir com Live Server**
 
-    Your site is now running!
+   Seu site já está rodando!
 
-3. **Deployment**
+3. **Publicação**
 
-    To make your site online, you can enable GitHub Pages for the repository (Settings -> Pages). Alternatively, you can use [Netlify](https://www.netlify.com/).
+   Para colocar seu site online, você pode ativar o GitHub Pages para o repositório (Configurações -> Pages). Alternativamente, você pode usar o [Netlify](https://www.netlify.com/).
 
-## 📝 Contributing
+## 📝 Contribuindo
 
-If you have any ideas to make it more interesting, please submit a pull request or create an issue for a feature request.
-
-## 🤝 License
-
-### [MIT](LICENSE)
-
-> Github [@fajarghifar](https://github.com/fajarghifar) &nbsp;&middot;&nbsp;
-> Youtube [@fajarghifar](https://www.youtube.com/@fajarghifar/) &nbsp;&middot;&nbsp;
-> Instagram [@fajarghifar](https://instagram.com/fajarghifar) &nbsp;&middot;&nbsp;
-> Linkedin [@fajarghifar](https://www.linkedin.com/in/fajarghifar/)
+Se você tiver alguma ideia para torná-lo mais interessante, envie um pull request ou crie uma issue com a sugestão de funcionalidade.
